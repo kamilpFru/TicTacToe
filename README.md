@@ -1,1 +1,1 @@
-# Tic-tac-toe game played with computer
+# A simple tic-tac-toe game for one player.
