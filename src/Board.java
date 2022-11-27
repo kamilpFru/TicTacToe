@@ -5,9 +5,8 @@ public class Board {
                                     {' ', ' ', ' '}};
 
     public final char[][] helpingBoard = {{'1', '2', '3'},
-                                           {'4', '5', '6'},
-                                           {'7', '8', '9'}};
-
+                                          {'4', '5', '6'},
+                                          {'7', '8', '9'}};
 
     public boolean isTaken(int x) {
         return !(getField(x) == ' ');
