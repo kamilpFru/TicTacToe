@@ -4,8 +4,8 @@ public class TicTacToe {
 
     private int playerScore;
     private int computerScore;
+    
     Scanner scanner = new Scanner(System.in);
-
 
     public TicTacToe() {
         playerScore = 0;
